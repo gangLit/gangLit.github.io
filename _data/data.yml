@@ -7,41 +7,41 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Kyunghee Lim
+    tagline: FrontEnd Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: muchohelado777@gmail.com
+    phone: 010-5327-7926
+    website: velog.io/@ganglit #do not add http://
+    linkedin: 
+    github: gangLit
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Korean
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: English
+        level: Intermediate
 
       - idiom: Spanish
-        level: Professional
+        level: Beginner
 
     interests:
-      - item: Climbing
+      - item: Writing
         link:
 
-      - item: Snowboarding
+      - item: Seeing Theatre
         link:
 
-      - item: Cooking
+      - item: Learning instruments
         link:
 
 career-profile:
